@@ -16,8 +16,8 @@ CS + Math @ Santa Clara University. I like building things that sit at the inter
 ## Tech
 
 **Languages:** Python, C++, JavaScript, Java
-> **ML / CV:** PyTorch, YOLOv8, CoreML, OpenCV
-> **Web:** React, Three.js, WebSocket, Node.js
+**ML / CV:** PyTorch, YOLOv8, CoreML, OpenCV
+**Web:** React, Three.js, WebSocket, Node.js
 
 ## Background
 
