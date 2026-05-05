@@ -4,6 +4,9 @@ CS + Math @ Santa Clara University. I like building things that sit at the inter
 
 ## Featured Projects
 
+**[Personal Portfolio (Wii-Inspired)](https://github.com/Henry-Wheeler/personal-portfolio)** — Interactive Wii Menu recreation
+> Built a full-screen Wii-inspired portfolio experience in React + Vite with custom channel navigation, animated UI tiles, 3D Mii character rendering, and themed audio/visual polish. Recreated key Wii Channel aesthetics while turning each channel into a different part of my portfolio.
+
 **[D3tection](https://github.com/Henry-Wheeler/D3tection)** — Real-time Rubik's cube move detector
 > Trained a YOLOv8 model on self-annotated sticker data to detect cube state from a webcam feed. Built a custom perspective-aware annotation tool, a state engine that tracks legal move sequences, and a 3D browser visualizer over WebSocket + Three.js. Exported to CoreML for fast Mac inference. Currently extending to a physical robot arm (ESP32 + stepper motors) that replicates detected moves over Bluetooth.
 
